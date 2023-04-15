@@ -26,13 +26,6 @@ export default function Header(): JSX.Element {
       </Flex>
       <Spacer />
       <Flex alignItems="center" padding="10px">
-        <a
-          href="https://github.com/muxinc/meet"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <AiFillGithub color="white" size="40px" />
-        </a>
       </Flex>
     </Flex>
   );
