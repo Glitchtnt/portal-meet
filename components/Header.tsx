@@ -3,7 +3,7 @@ import Image from "next/image";
 import { AiFillGithub } from "react-icons/ai";
 import { Flex, Spacer } from "@chakra-ui/react";
 
-import muxLogo from "../public/mux-logo.svg";
+import portalLogo from "../public/portal-logo.png";
 
 export default function Header(): JSX.Element {
   return (
@@ -21,7 +21,7 @@ export default function Header(): JSX.Element {
           target="_blank"
           rel="noreferrer"
         >
-          <Image priority alt="logo" width={150} height={35} src={muxLogo} />
+          <Image priority alt="logo" width={150} height={35} src={portalLogo} />
         </a>
       </Flex>
       <Spacer />
