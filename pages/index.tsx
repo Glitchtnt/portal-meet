@@ -130,8 +130,8 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Mux Meet</title>
-        <meta name="description" content="Real-time meetings powered by Mux" />
+        <title>Portal Network | Meet</title>
+        <meta name="description" content="Real-time meetings powered by Portal Network" />
         <link rel="icon" href="/favicon.png" />
       </Head>
 
