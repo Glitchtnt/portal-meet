@@ -121,7 +121,7 @@ const SpacePage: NextPage<Props> = ({
   return (
     <>
       <Head>
-        <title>{title}</title>
+        <title>Temporary Meet Space - Portal Network | Meet</title>
         <meta name="description" content="This is your space room" />
         <link rel="icon" href="/favicon.png" />
       </Head>
