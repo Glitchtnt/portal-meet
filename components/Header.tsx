@@ -17,7 +17,7 @@ export default function Header(): JSX.Element {
     >
       <Flex alignItems="center" padding="10px" width="290px">
         <a
-          href="https://www.mux.com/real-time-video"
+          href="https://portalnet.tk"
           target="_blank"
           rel="noreferrer"
         >
