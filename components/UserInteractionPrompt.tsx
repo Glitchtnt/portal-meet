@@ -9,7 +9,7 @@ import { useUserMedia } from "hooks/useUserMedia";
 import MicrophoneButton from "components/controls/buttons/MicrophoneButton";
 import CameraButton from "components/controls/buttons/CameraButton";
 
-import muxLogo from "../public/mux-logo.svg";
+import portalLogo from "../public/portal-logo.png";
 
 interface Props {
   onInteraction: () => void;
@@ -43,7 +43,7 @@ export default function UserInteractionPrompt({
         alt="logo"
         width={300}
         height={70}
-        src={muxLogo}
+        src={portalLogo}
         style={{ zIndex: 0 }}
       />
       <Button
