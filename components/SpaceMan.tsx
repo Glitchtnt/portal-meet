@@ -20,7 +20,7 @@ export default function SpaceMan({ bottom = "0px" }: Props): JSX.Element {
         alt="logo"
         width={175}
         height={200}
-        src="/mux-in-space.png"
+        src="/favicon.png"
       />
     </Box>
   );
